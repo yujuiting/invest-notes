@@ -1,0 +1,122 @@
+# 專有名詞
+伊朗戰事
+美伊戰事
+寶僑
+集體賣壓
+台積電
+聯發科
+鴻海
+廣達
+ABF
+CoWoS
+輝達
+外資
+投信
+自營商
+融資
+融券
+殖利率
+公債殖利率
+聯準會
+FOMC
+華許
+EPS
+謝孟恭
+游庭皓
+Anthropic
+Broadcom
+載板
+BMC
+Socket
+股癌
+鎧俠
+CoreWeave
+財測
+Neo Cloud
+# 已知誤聽（錯→正）
+伊朗戰士→伊朗戰事
+美伊戰士→美伊戰事
+寶橋→寶僑
+機體賣壓→集體賣壓
+華曲→華許
+龍井→榮景（語境：廣告市場榮景）
+古來→股癌（語境：開場節目名）
+聖孟公→謝孟恭
+宅板→載板（語境：供應鏈漲價族群）
+Emprobi→Anthropic
+Empathic→Anthropic
+blockcom→Broadcom
+Daryl Modi→Dario Amodei
+variation→valuation（語境：估值）
+田浩→庭皓
+Jumen→Gemini
+Anthropie→Anthropic
+國癌→股癌
+向夢工→謝孟恭
+Lumenton→Lumentum
+
+凱沙→鎧俠
+裁測→財測
+標普白→標普500
+友廷浩→游庭皓
+魏騰→威騰
+西捷→希捷
+財告→財報
+定力需求→電力需求
+攻擊過剩→供給過剩
+吉普利圖→吉卜力圖
+追曲線→J曲線
+秀琴浩→游庭皓
+護身300→滬深300
+中國人民行→中國人民銀行
+雄本→熊本
+蘇資峰→蘇姿丰
+段頭→斷頭
+Pantier→Palantir
+Pentier→Palantir
+Plantier→Palantir
+Palantier→Palantir
+修力可→修麗可
+# 待確認（未自動替換）
+每一戰士（疑為「美伊戰事」）
+紀劉（開場自稱，疑為誤聽，主持人身分不確定）
+VivoTone（疑為 LVMH，不確定）
+AAXTI（不確定）
+Patty（疑為 Palantir，不確定）
+Marvel（疑為 Marvell，語境：美股半導體）
+阿發（疑為 Alphabet）
+Nate（疑為 NAND，語境：記憶體漲價）
+紅波斯（不確定）
+匹極態來／皮極泰來（疑為「否極泰來」）
+MPRO（疑為 Anthropic，不確定）
+MicroB（疑為 Michael Burry，不確定）
+epidem（疑為 Ibiden，語境：EMIB 載板，不確定）
+星星（語境：EMIB 載板廠，不確定）
+ONS（語境：收購方股價崩，疑為 onsemi，不確定）
+回答（疑為「輝達」，語境：七巨頭今年漲跌幅）
+稅公園（疑為「睡公園」，主持人玩笑：股票套牢）
+coref（疑為 CoreWeave，語境：算力房東）
+微f（語境：雲端運算公司、股價55，不確定）
+震爆籌（疑為「正報酬」，不確定）
+new cloud（疑為 Neo Cloud，新興雲端算力商）
+僅限位階（語境：費半跌破某位階，不確定）
+group block（疑為 Grok，語境：馬斯克、token 消耗，不確定）
+奇邦（疑為「凱基」，語境：折疊機市占預估）
+十業（疑為「實業」或「非 AI」，語境：蘋果撐大盤，不確定）
+特納斯（疑為 John Ternus，蘋果新任執行長，未查證）
+沙籠資（疑為「殺融資」，語境：靠殺融資築底，不確定）
+供底（疑為「築底」，不確定）
+準櫃式（疑為「機櫃式」，語境：超微 AI 系統，不確定）
+
+龍之→融資（語境：融資殺出來、融資爆掉；EP711 約 10 分，未自動替換）廷浩→庭皓
+阿法貝→Alphabet
+米塔→Meta
+西節→希捷
+腫體→整體（語境：硬體需求帶貨潮）
+美印戰事→美伊戰事
+# 待確認（本集 2026-11-05）
+捐聲（疑為「輝達」，語境：找…來聽證、黃仁勳）
+EPSO（疑為 Ipsos，語境：民調）
+劍弗瑞斯（疑為 Hakeem Jeffries／傑佛瑞斯）
+西諾（疑為 Gina Hinojosa，德州州長）
+塔拉里科／塔拉利克（德州民主黨聯邦參議員，英文拼法待確認）
