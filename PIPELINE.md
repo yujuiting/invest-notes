@@ -1,6 +1,12 @@
 # 處理流程（PIPELINE）
 
-所有資料只在這台機器上處理，不上傳、不對外送出。**不要印出 OPENAI_API_KEY**（不要 `echo`、`env`、`printenv` 把它顯示出來）。
+本機處理；同步到 JT 的 private GitHub [`yujuiting/invest-notes`](https://github.com/yujuiting/invest-notes)。**不要印出 OPENAI_API_KEY**（不要 `echo`、`env`、`printenv` 把它顯示出來）。不要上傳 RSS XML、音檔、API key。
+
+## GitHub 同步（invest-notes）
+每處理完新集數或新 Threads 批次後，把變更推上 `yujuiting/invest-notes`（用 CloudAgent，model 用 Grok）：
+- 同步：`knowhow/`、`notes/`（不含 `_backup`）、`predictions/`（不含 `cache`）、`research/`、`threads/`、`transcripts/`、`PIPELINE.md`、`glossary.txt`、根目錄 `README.md`
+- 不同步：`*.xml`、音檔、`state.json`、`predictions/cache/`、`notes/_backup/`、任何 secret
+- 首批已合進 main（PR #1）；之後增量用同一 repo 開 PR 或直推，跟 JT 說一聲即可
 
 ## 目錄
 ```
