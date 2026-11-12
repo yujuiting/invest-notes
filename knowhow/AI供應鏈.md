@@ -218,5 +218,6 @@
 - **誰說的**：游庭皓
 - **來源**：《游庭皓的財經皓角》2026-11-12（四）〈利空連環爆 輝達盤後重挫7% 老黃再爆桃花劫!股市V轉 該追股票嗎?〉，約 10–15 分
   - Threads @jackieyutw 2026-11-11：https://www.threads.com/@jackieyutw/post/DfmXEwZFJTr（AI 巨頭垂直整合；OpenAI、Anthropic 與 CoreWeave 目前仍高度依賴大型科技公司提供晶片、雲端運算或資金，當融資成本上升、資料中心建設受到監管時，競爭壓力將更加明顯。與「AI 融資變貴是真風險」同向；本則沒有 CDS 或利息數字。來源主張未查證）
-- **提及次數**：2（最近一次 2026-11-11）
+  - Threads @jackieyutw 2026-11-12：https://www.threads.com/@jackieyutw/post/DfoB4dYFP4I、https://www.threads.com/@jackieyutw/post/DfoB7aBFL6e（同一主題計 1 次；來源主張未查證。前者稱 11 月以來投資等級 CDS 利差擴大最多的五家為英特爾、超微、博通、亞馬遜、甲骨文，甲骨文 CDS 達 282 個基點；福特、通用等傳統企業利差反而收窄，風險集中而非全面擴散。後者稱 CoreWeave 第三季資本支出 145 億美元、高於原估，依全年指引推算第四季中位數約 73 億、季減近 50%，並提問是節奏調整還是財務條件開始限制 AI 基礎建設擴張；問句不下定論）
+- **提及次數**：3（最近一次 Threads 2026-11-12）
 - **狀態**：未驗證
