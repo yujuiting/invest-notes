@@ -19,3 +19,17 @@ https://www.threads.com/@jackieyutw/post/DgF8H7aEjxq
 這意味著，黃仁勳雖然重新取得輝達經營權，但相關爭議可能從企業內部調查進一步延伸至國會監督，未來民主黨若正式啟動調查，輝達的出口管制、政府關係與公司治理都可能面臨更嚴格的政治審查。
 
 （有圖 1 張，未讀；無影片、無引用、無編輯標記。）
+
+## 3. 2026-11-24 16:02:04 DgHerddm1r4（台北時間）
+https://www.threads.com/@jackieyutw/post/DgHerddm1r4
+
+看來是賣一堆溢價ETF
+
+（有圖 1 張，未讀；無影片、無引用。）
+
+## 4. 2026-11-24 16:03:33 DgHe2Uim8_F（台北時間）
+https://www.threads.com/@jackieyutw/post/DgHe2Uim8_F
+
+11/24 台股ETF超級溢價日
+
+（有影片 1 個，另見 1 張圖，可能是輪播，數量未確認；影片和圖都未讀；無引用。）
